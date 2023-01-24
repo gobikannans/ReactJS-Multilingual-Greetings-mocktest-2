@@ -1,0 +1,26 @@
+.language-list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.normal-btn-style {
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  background-color: transparent;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 60px;
+}
+
+.active-btn-style {
+  border: 1px solid #db1c48;
+  background-color: #db1c48;
+  color: #ffffff;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 60px;
+}
